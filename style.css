@@ -1,0 +1,21 @@
+.div-search{
+    text-align: left;
+    align-items: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #66A6D4;
+    padding-bottom: 1rem;
+}
+
+.results{
+    margin-top: 1rem;
+}
+
+.modal-title{
+    display: block;
+}
+
+#detail-package, #myModalLabel{
+    padding-left: 10px;
+}
